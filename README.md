@@ -20,17 +20,17 @@
 
 > Gracias por utilizar nuestra pagina 
 
-*_Este es un resumen de lo que hizo cada uno de nosotros:*
+*Este es un resumen de lo que hizo cada uno de nosotros:*
 
 ## Damian Lucci ## 
-*_Se dedico a crear la aplicacion de chat y ver la manera de despues unirlo con el proyecto original,  y dividir las distintas tareas.*
+*Se dedico a crear la aplicacion de chat y ver la manera de despues unirlo con el proyecto original,  y dividir las distintas tareas.*
 
 ## Cristian Garcia Zanfardini ## 
-*_Usamos como base su proyecto.*
-*_Se dedico  a listas los blogs y el detalle,el CRUD del proyecto,el login , el logout,los perfiles y casos de pruebas.*
+*Usamos como base su proyecto.*
+*Se dedico  a listas los blogs y el detalle,el CRUD del proyecto,el login , el logout,los perfiles y casos de pruebas.*
 
 ## Franco Sassi ## 
-*_Se dedico a hacer: el repositorio ,el readme, la ruta about , a crear el avatar, SingUp y ver como organizar las distintas paginas.*
+*Se dedico a hacer: el repositorio ,el readme, la ruta about , a crear el avatar, SingUp y ver como organizar las distintas paginas.*
 
-*_Si bien estas son las tareas que hizo cada uno, cada vez que surgia una dificultad nos ayudabamos mutuamente.*
+*Si bien estas son las tareas que hizo cada uno, cada vez que surgia una dificultad nos ayudabamos mutuamente.*
 
